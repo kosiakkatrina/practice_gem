@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["katrina@madetech.com"]
 
   spec.summary       = "Summary"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/kosiakkatrina/practice_gem"
   spec.license       = "MIT"
 
   spec.metadata["homepage_uri"] = spec.homepage
